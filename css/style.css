@@ -1,0 +1,90 @@
+body{
+	font-family: Segoe UI, Verdana, Arial; 
+	font-size: 14px;
+	color: #000;
+	margin: 0 10px;
+}
+header{
+	background-color: #0537AB;
+	border-bottom: solid 5px #D05C5F;
+}
+footer{
+	background-color: #0537AB;
+	color:#FFFFFF;
+	text-align: center;
+	padding: 20px 0px;
+	border-top: 6px solid #284460; 
+}
+
+#mision-vision{
+	
+	margin-left: 20px;
+	
+}
+
+h1{
+	font-size: 38px;
+	color: #0537AB;
+	text-transform: uppercase;
+	border-bottom: solid 4px #D05C5F;
+}
+
+
+h1, h2 {
+	color: #0537AB;
+}
+
+h2{
+	font-size: 28px;
+	font-weight: 800;
+}
+
+article p{
+	
+	color: #5F5F5F;
+	
+}
+
+ul h3{
+	
+	color: #5F5F5F;
+	margin-bottom: 2px;
+}
+
+article ul li h4{
+	color: #5F5F5F;
+	border-bottom: 2px;
+}
+
+article li p{
+	margin-top: 0;
+}
+
+
+.quitar-margen{
+	margin: 0;
+}
+
+
+.color-rojo{
+	color: #AA0B0D;
+}
+
+
+#map{
+	width: 100%;
+	height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
